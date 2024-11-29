@@ -1,0 +1,43 @@
+                                                            ASSIGNMENT-2
+
+1. What is Git?
+Answer- Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+It is used for:
+* Tracking code changes
+* Tracking who made changes
+* Coding collaboration
+
+2. What do you understand by the term ‘Version Control System’?
+Answer- Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code.
+3. What is GitHub?
+Answer-GitHub is a code hosting platform for collaboration and version control. GitHub lets us (and others) work together on projects.
+4.Mention some popular Git hosting services.
+Answer- Some popular Git hosting services are Bitbucket, GitLab,Github , Azure DevOps Server, AWS CodeCommit, SourceForge, AWS Elastic Beanstalk.
+
+5. Different types of version control system.
+Answer- The types of Version Control System are:
+* Local Version Control System.
+* Centralized Version Control System.
+* Distributed Version Control System.
+
+6. What benefits come with using GIT?
+Answer- Git is a tool used to keep track of changes to files, especially the code of the projects. It is termed a distributed version control system because of its behaviour to allow multiple people to work on the same project, even if they are not connected to a common server.
+7. What is a Git repository?
+Answer- The repositories of Github act as essential places for storing the files with maintaining the versions of development. By using GitHub repositories developers can organize, monitor, and save their changes of code to their projects in remote environments. The files in the GitHub repository are imported from the repository into the local server of the user for further updations and modifications in the content of the file. In this article, we will go through a detailed understanding of the GitHub repository and its workflow.
+8. How can you initialize a repository in Git?
+Answer- A new repo from scratch
+1. Create a directory to contain the project.
+2. Go into the new directory.
+3. Type git init .
+4. Write some code.
+5. Type git add to add the files (see the typical use page).
+6. Type git commit .
+
+
+
+
+
+
+
+
+
